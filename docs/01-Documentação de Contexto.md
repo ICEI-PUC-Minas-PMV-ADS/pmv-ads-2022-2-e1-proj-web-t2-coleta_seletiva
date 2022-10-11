@@ -17,12 +17,6 @@ Fonte: Agência Senado
 ## Problema
 Conforme exposto, o problema que se busca resolver com este projeto é a falta de consciência e informação das pessoas a respeito da coleta seletiva de lixo;
 
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Tem como objetivo desenvolver um software capaz de auxiliar usuários comuns e empresas sobre o acompanhamento do serviço prestado na cidade.
@@ -35,8 +29,6 @@ Como objetivos específicos, podemos destacar:
 
 ● Informar rotas do dia da coleta dos recicláveis e não recicláveis aos usuários.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 Por mais que haja divulgação de informações sobre coleta seletiva ainda é um problema recorrente na sociedade.
@@ -44,8 +36,6 @@ Por mais que haja divulgação de informações sobre coleta seletiva ainda é u
 Na Figura 1 podemos ver que apesar do aumento das iniciativas na coleta seletiva ainda falta em boa parte dos Municípios do Brasil o apoio da coleta seletiva.
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -54,8 +44,3 @@ Apesar de que todas as pessoas possam se informar sobre a coleta seletiva, o enf
 Foi estabelecido que o público-alvo seriam pessoas de todas as faixas etárias, pois precisamos conscientizar toda a população, independente da classe social, idade e tipo de indivíduo.
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
