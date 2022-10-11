@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Luisa
 * Michelle Leite Lima Santos
 * Ricardo
-* Thiago
+* Thiago Henrique de Oliveira Souza
 
 ## Joyce 
 
