@@ -1,13 +1,22 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O aumento na produção de lixo e a falta de preocupação com a separação e reciclagem de determinados materiais tem grandes consequências sociais e principalmente ambientais, uma vez que sem local apropriado o lixo se espalha pelas cidades chegando aos rios e gerando poluição das águas e em épocas de chuvas grande alagamentos e até mesmo enchentes. No entanto, quando descartados em lixões demoram anos para se decompor e acabam por poluir os solos e lençóis freáticos gerando outros problemas, ainda existem locais que fazem a incineração do lixo o que eleva a poluição do ar.
+
+A coleta seletiva por sua vez traz inúmeros benefícios tanto sociais quanto ambientais, sociais pois, geram empregos e ambientais pois, há uma redução na produção de materiais a partir da reciclagem.
+
+Contudo a coleta seletiva ainda não é realidade na maioria das cidades brasileiras devido a falta de investimento das prefeituras e também a não conscientização da população da sua importância.
+
+Segundo estudo do Panorama dos Resíduos Sólidos no Brasil 2020, cada brasileiro produz, em média, 379,2 kg de lixo por ano, o que corresponde a mais de 1 kg por dia.
+
+Apesar das falhas, o cenário é de melhorias. Segundo a Abrelpe, a cobertura da coleta de resíduos sólidos urbanos passou de 88% em 2010 para 92% em 2019, e a quantidade de municípios que contam com o serviço de coleta seletiva passou de 56,6% para 73,1% na comparação entre os dois anos.
+
+O PL 4.868/2019, do senador Styvenson Valentim, foi aprovado pela Comissão de Meio Ambiente (CMA) do Senado em dezembro de 2019. Na justificativa do projeto, o senador diz que “falta educação ambiental no âmbito institucional para oferecer instruções básicas sobre o descarte dos resíduos no recipiente correto, bem como para destacar a elevada importância da reciclagem para a sustentabilidade do planeta e as baixas taxas de reciclagem observadas no país”. Por isso, ele propõe que órgãos e entidades públicas separem o lixo reciclável dos demais.
+
+Fonte: Agência Senado
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Conforme exposto, o problema que se busca resolver com este projeto é a falta de consciência e informação das pessoas a respeito da coleta seletiva de lixo;
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,27 +25,33 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Tem como objetivo desenvolver um software capaz de auxiliar usuários comuns e empresas sobre o acompanhamento do serviço prestado na cidade.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos destacar:
+
+● Informar e conscientizar a população sobre a importância da coleta seletiva.
+
+● Criar formas de interação entre cidadão e empresas especializadas no ramo da reciclagem, a fim de facilitar o processo de coleta seletiva.
+
+● Informar rotas do dia da coleta dos recicláveis e não recicláveis aos usuários.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
+Por mais que haja divulgação de informações sobre coleta seletiva ainda é um problema recorrente na sociedade.
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Na Figura 1 podemos ver que apesar do aumento das iniciativas na coleta seletiva ainda falta em boa parte dos Municípios do Brasil o apoio da coleta seletiva.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Apesar de que todas as pessoas possam se informar sobre a coleta seletiva, o enfoque principal deste trabalho está no público que não possui conhecimento dos danos e prejuízos causados ao meio ambiente e como o problema pode ser resolvido.
 
+Foi estabelecido que o público-alvo seriam pessoas de todas as faixas etárias, pois precisamos conscientizar toda a população, independente da classe social, idade e tipo de indivíduo.
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
 > **Links Úteis**:
