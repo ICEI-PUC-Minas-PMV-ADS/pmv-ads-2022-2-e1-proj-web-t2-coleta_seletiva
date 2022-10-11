@@ -1,21 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto de desenvolvimento Frontend`
 
-`SEMESTRE`
+`1º Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+*Jadir
+* Joanes
+* Luisa
+* Michelle Leite Lima Santos
+* Ricardo
+* Thiago
 
-## Orientador
+## Joyce 
 
 * Nome completo do professor 1
 
