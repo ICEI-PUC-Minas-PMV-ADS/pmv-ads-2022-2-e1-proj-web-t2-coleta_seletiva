@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 *Jadir
 * Joanes
-* Luisa
+* Luisa Silva Coutinho
 * Michelle Leite Lima Santos
 * Ricardo
 * Thiago Henrique de Oliveira Souza
