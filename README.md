@@ -17,9 +17,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Ricardo
 * Thiago Henrique de Oliveira Souza
 
-## Joyce 
+## Professor 
 
-* Nome completo do professor 1
+* Joyce Christina de Paiva Carvalho
 
 ## Instruções de utilização
 
