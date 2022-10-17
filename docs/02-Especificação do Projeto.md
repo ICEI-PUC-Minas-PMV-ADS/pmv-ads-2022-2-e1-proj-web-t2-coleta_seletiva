@@ -5,7 +5,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 As personas inclusas durante o processo de pesquisa e desenvolvimento do problema são apresentadas nas imagens a seguir:
 
-| <img src="https://www.portaldoenvelhecimento.com.br/wp-content/uploads/2021/07/envelhecimento-humanizado-woman-1795054_1280.jpg" width="300" height="200"/> | Joana Da Silva, 72 anos|
+| <img src="https://www.portaldoenvelhecimento.com.br/wp-content/uploads/2021/07/envelhecimento-humanizado-woman-1795054_1280.jpg" width="350" height="175"/> | Joana Da Silva, 72 anos|
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------|
 | Ocupação:                                                       | Pofessora aposentada e atualmente dona de casa. Realiza as atividades do lar.                                                                                           |
 | Aplicativos:                                                    | WhatsApp e Facebook.                                                        |
@@ -41,17 +41,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Joana Da Silva  | Informações sobre como deve-se separar o lixo. | Aprender sobre a reciclagem para agregá-la na rotina.     |
+|Joana Da Silva  | Conteúdos interativos e divertidos             | Facilitar a aprendizagem. |
+|Joana Da Silva  | Informações sobre locais, datas e horários de coleta seletiva. | Levar o lixo para o local de coleta nos dias corretos. Evitando que o lixo seja espalhado causando impactos ambientais.|
+|Joana Da Silva | Que os catadores tenham informações para trabalharem em segurança. | Para evitar acidentes de trabalho. |
+|Pedro Cardoso | Informações sobre os locais com adesão da coleta seletiva. | Distribuir melhor os pontos de coleta seletiva. |
+|Pedro Cardoso | Relatório dos dias e horários de coleta seletiva. | Conseguir administrar melhor o fluxo de coleta. |
+|Pedro Cardoso | Explicar para a população a importância da coleta seletiva. | Aumentar o fluxo de coleta e viabilizar a profissão de catador em áreas afastadas.|
+|Pedro Cardoso | Possibilitar aos catadores de lixo uma fonte de renda segura. | Criar um fluxo de venda direta entre catadores e empresas reciclagem. |
+|Pedro Cardoso | Ter um canal de comunicação entre cooperativas. | Para gerar mais diálogo e produtividade. |
+|Pedro Cardoso | Valorização do trabalho manual e gerar renda extra. | Gerar mais empregos e possibilidades para as famílias. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
