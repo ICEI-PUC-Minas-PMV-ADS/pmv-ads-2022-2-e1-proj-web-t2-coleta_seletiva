@@ -11,10 +11,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 <li><a href="https://github.com/jadirsousa"> Jadir de Sousa Gonçalves</a></li>
-* Joanes Costa Junior
+<li><a href="https://github.com/jcjunior25"> Joanes Costa Junior</a></li>
 <li><a href="https://github.com/luisacoutinho06"> Luisa Silva Coutinho</a></li>
 <li><a href="https://github.com/michellepucads"> Michelle Leite Lima Santos</a></li>
-* Ricardo Fonseca Pereira
+<li><a href="https://github.com/RicadoFwww"> Ricardo Fonseca Pereira</a></li>
 <li><a href="https://github.com/ThiagoOliveiraQ">Thiago Henrique de Oliveira Souza</a></li>
 
 ## Orientador 
