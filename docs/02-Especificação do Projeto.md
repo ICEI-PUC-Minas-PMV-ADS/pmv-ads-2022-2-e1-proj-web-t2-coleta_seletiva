@@ -50,22 +50,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| O site deve ter um menu onde o usuário escolha o tipo de informação que deseja( Rede de coleta, Afinal, o que é coleta seletiva, Diversão e interatividade, Ecossistema, FAQ). | ALTA | 
 |RF-002| Apresentar na tela inicial infográficos informativos sobre coleta seletiva.  | MÉDIA |
-|RF-003|Permitir a interação entre os agentes de reciclagem(cooperativas) e o site, possibilitando mapeamento e organização dos serviços por eles prestados.| ALTA|
+|RF-003|Permitir a interação entre os agentes de reciclagem(cooperativas) e o site, possibilitando mapeamento e organização dos serviços por eles prestados.| ALTA |
 |RF-004|Deve apresentar informações sobre segurança do Trabalho e DDS (diálogo diário de segurança) mostrar a agenda de eventos de Capacitação dos catadores associados.| MÉDIA |
 |RF-005|Conter um filtro onde ao inserir seu endereço o usuário consiga  encontrar locais, datas e horários de coleta seletiva.| MÉDIA |
-|RF-006|O site deve facilitar o contato de cooperativas de coleta e empresas de reciclagem, possibilitando a venda dos materiais.|MÉDIA |
-|RF-007|O site deve oferecer uma agenda com dias e horários de coleta seletiva em cada bairro.|MÉDIA |
-|RF-008|Aba de conteúdos interativos contendo vídeos e quizzes.|MÉDIA |
+|RF-006|O site deve facilitar o contato de cooperativas de coleta e empresas de reciclagem, possibilitando a venda dos materiais.| MÉDIA |
+|RF-007|O site deve oferecer uma agenda com dias e horários de coleta seletiva em cada bairro.| MÉDIA |
+|RF-008|Aba de conteúdos interativos contendo vídeos e quizzes.| MÉDIA |
 |RF-009|Opção de registro de usuários por redes sociais, e-mail ou CPF.| BAIXA |
-|RF-010|FAQ- Perguntas frequentes dos usuários sobre navegação e utilização dos serviços.|BAIXA |
-|RF-011|Loja virtual - Usuários podem adquirir produtos artesanais feitos pelos trabalhadores das cooperativas. |BAIXA |
+|RF-010|FAQ- Perguntas frequentes dos usuários sobre navegação e utilização dos serviços.| BAIXA |
+|RF-011|Loja virtual - Usuários podem adquirir produtos artesanais feitos pelos trabalhadores das cooperativas. | BAIXA |
 
 ### Requisitos não Funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID      | Descrição do Requisito  |Prioridade |
 |--------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
-|RNF-002| Apresentar na tela inicial infográficos informativos sobre coleta seletiva. | ALTA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku). | ALTA | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. | ALTA | 
+|RNF-003|O site deve ter bom nível de contraste entre os elementos da tela em conformidade. | MÉDIA |
+|RNF-004|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
