@@ -5,15 +5,21 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 As personas inclusas durante o processo de pesquisa e desenvolvimento do problema são apresentadas nas imagens a seguir:
 
-| ![persona 1-edit](https://i.ibb.co/YZfB9BK/imagem-2022-10-17-120113212.png)| Joana Da Silva, 72 anos                                                                                      |
+| <img src="https://www.portaldoenvelhecimento.com.br/wp-content/uploads/2021/07/envelhecimento-humanizado-woman-1795054_1280.jpg" width="300" height="200"/> | Joana Da Silva, 72 anos|
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------|
 | Ocupação:                                                       | Pofessora aposentada e atualmente dona de casa. Realiza as atividades do lar.                                                                                           |
-| Aplicativos:                                                    | WhatsApp, Facebook                                                           |
-| Motivações:                                                     | Tornar a aprendizagem sobre a consciência ambiental mais lúdica e divertida; |
-|                                                                 |  Viver em uma comunidade organizada e limpa.|                          
-| Frustrações:                                                    | Falta de conhecimento básico sobre a coleta seletiva;|
-|                                                                 | Pouca divulgação dos horários e locais de coleta; |
-|                                                                 | Catadores despreparados e trabalhando em condições insalubres. | 
+| Aplicativos:                                                    | WhatsApp e Facebook.                                                        |
+| Motivações:                                                     | Tornar a aprendizagem sobre a consciência ambiental mais lúdica e divertida; viver em uma comunidade organizada e limpa.|       
+| Frustrações:                                                    | Falta de conhecimento básico sobre a coleta seletiva; pouca divulgação dos horários e locais de coleta; catadores despreparados e trabalhando em condições insalubres. | 
+
+
+
+| ![persona 1-edit](https://www.smarttravel.news/wp-content/uploads/2020/12/patrick_logo_LinkedIn_752x393-300x300.jpg) | Pedro Cardoso, 46 anos|
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------|
+| Ocupação:                                                       | Dono de uma cooperativa de reciclagem. Atua ativamente na organização dos processos de triagem, prensa e venda dos materiais. |
+| Aplicativos:                                                    | Linkedin, Instagram, Facebook e WhatsApp. |
+| Motivações:                                                     | Expandir seus negócios; ajudar no desenvolvimento sustentável de sua cidade; criar eventos de capacitação profissional que ampliarão as fontes de emprego e renda; possibilitar renda extra por meio da venda de artefatos produzidos pelos cooperados; criar um ecossistema de cooperativas visando mais eficiência. |           
+| Frustrações:                                                  |Dificuldade de comunicação entre os agentes da reciclagem; imprevisibilidade do fluxo de coleta; problemas no processo de revenda; Baixa adesão da coleta seletiva entre a população; não ter controle dos acessos feitos; falta de projetos que gerem renda extra e valorizem o trabalho manual. |
 
 
 
