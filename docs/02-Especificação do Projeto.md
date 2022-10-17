@@ -1,14 +1,19 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de revisão bibliográfica e análise simplificada do cenário atual.
 
 ## Personas
+As personas inclusas durante o processo de pesquisa e desenvolvimento do problema são apresentadas nas imagens a seguir:
 
-Joana da Silva, 72 anos é professora aposentada e atualmente dona de casa.Trabalhou durante 40 anos em escolas públicas do estado de Minas Gerais, sempre engajada com questões ambientais. Gostaria de conscientizar as novas gerações da importância da reciclagem.
+| ![persona 1-edit](https://i.ibb.co/YZfB9BK/imagem-2022-10-17-120113212.png)| Joana Da Silva, 72 anos                                                                                      |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------|
+| Ocupação:                                                       | Pofessora aposentada e atualmente dona de casa. Realiza as atividades do lar.                                                                                           |
+| Aplicativos:                                                    | WhatsApp, Facebook                                                           |
+| Motivações:                                                     | Tornar a aprendizagem sobre a consciência ambiental mais lúdica e divertida; |
+|                                                                 |  Viver em uma comunidade organizada e limpa.|                          
+| Frustrações:                                                    | Falta de conhecimento básico sobre a coleta seletiva;|
+|                                                                 | Pouca divulgação dos horários e locais de coleta; |
+|                                                                 | Catadores despreparados e trabalhando em condições insalubres. | 
 
 
 
