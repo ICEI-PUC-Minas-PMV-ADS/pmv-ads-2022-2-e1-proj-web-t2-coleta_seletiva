@@ -14,7 +14,7 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 
 | ![persona 1-edit](https://www.smarttravel.news/wp-content/uploads/2020/12/patrick_logo_LinkedIn_752x393-300x300.jpg) | Pedro Cardoso, 46 anos|
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------|
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------|
 | Ocupação:                                                       | Dono de uma cooperativa de reciclagem. Atua ativamente na organização dos processos de triagem, prensa e venda dos materiais. |
 | Aplicativos:                                                    | Linkedin, Instagram, Facebook e WhatsApp. |
 | Motivações:                                                     | Expandir seus negócios; ajudar no desenvolvimento sustentável de sua cidade; criar eventos de capacitação profissional que ampliarão as fontes de emprego e renda; possibilitar renda extra por meio da venda de artefatos produzidos pelos cooperados; criar um ecossistema de cooperativas visando mais eficiência. |           
@@ -22,7 +22,7 @@ As personas inclusas durante o processo de pesquisa e desenvolvimento do problem
 
 
 ## Histórias de Usuários
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
