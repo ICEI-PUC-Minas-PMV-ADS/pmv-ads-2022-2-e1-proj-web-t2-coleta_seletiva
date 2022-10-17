@@ -10,14 +10,14 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-*Jadir
-* Joanes
-* Luisa Silva Coutinho
-* Michelle Leite Lima Santos
-* Ricardo
-* Thiago Henrique de Oliveira Souza
+<li><a href="https://github.com/jadirsousa"> Jadir de Sousa Gonçalves</a></li>
+* Joanes Costa Junior
+<li><a href="https://github.com/luisacoutinho06"> Luisa Silva Coutinho</a></li>
+<li><a href="https://github.com/michellepucads"> Michelle Leite Lima Santos</a></li>
+* Ricardo Fonseca Pereira
+<li><a href="https://github.com/ThiagoOliveiraQ">Thiago Henrique de Oliveira Souza</a></li>
 
-## Professor 
+## Orientador 
 
 * Joyce Christina de Paiva Carvalho
 
