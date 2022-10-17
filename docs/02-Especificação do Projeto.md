@@ -48,16 +48,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| O site deve ter um menu onde o usuário escolha o tipo de informação que deseja( Rede de coleta, Afinal, o que é coleta seletiva, Diversão e interatividade, Ecossistema, FAQ). | ALTA | 
+|RF-002| Apresentar na tela inicial infográficos informativos sobre coleta seletiva.  | MÉDIA |
+|RF-003|Permitir a interação entre os agentes de reciclagem(cooperativas) e o site, possibilitando mapeamento e organização dos serviços por eles prestados.| ALTA|
+|RF-004|Deve apresentar informações sobre segurança do Trabalho e DDS (diálogo diário de segurança) mostrar a agenda de eventos de Capacitação dos catadores associados.| MÉDIA |
+|RF-005|Conter um filtro onde ao inserir seu endereço o usuário consiga  encontrar locais, datas e horários de coleta seletiva.| MÉDIA |
+|RF-006|O site deve facilitar o contato de cooperativas de coleta e empresas de reciclagem, possibilitando a venda dos materiais.|MÉDIA |
+|RF-007|O site deve oferecer uma agenda com dias e horários de coleta seletiva em cada bairro.|MÉDIA |
+|RF-008|Aba de conteúdos interativos contendo vídeos e quizzes.|MÉDIA |
+|RF-009|Opção de registro de usuários por redes sociais, e-mail ou CPF.| BAIXA |
+|RF-010|FAQ- Perguntas frequentes dos usuários sobre navegação e utilização dos serviços.|BAIXA |
+|RF-011|Loja virtual - Usuários podem adquirir produtos artesanais feitos pelos trabalhadores das cooperativas. |BAIXA |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|ID      | Descrição do Requisito  |Prioridade |
+|--------|-------------------------|----|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF-002| Apresentar na tela inicial infográficos informativos sobre coleta seletiva. | ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
