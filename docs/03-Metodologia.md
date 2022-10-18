@@ -5,6 +5,14 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
+## Relação de Ambientes de Trabalho
+| AMBIENTE | PLATAFORMA | LINK DE ACESSO |
+|----------|------------|-------------------------------------------------------------------------------------------------------|
+| Repositório de código fonte | Github | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/teams/coleta_seletiva                   |
+| Documentos do projeto | Google Drive | https://drive.google.com/drive/folders/14fuFMJuTY88s1x_6aTVwBSzxhbJANJs5?usp=sharing   |
+| Projeto de Interface e  Wireframes | MarvelApp | https://marvelapp.com/project/6462552                                        |
+| Gerenciamento do Projeto | Canva | https://www.canva.com/design/DAFPI4VChHc/658JO-Mpr0rMwp7iASRidA/edit?utm_content=DAFPI4VChHc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton                                        |
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
