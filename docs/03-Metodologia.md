@@ -58,7 +58,7 @@ Luisa Coutinho
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Project estruturado com as seguintes listas: 
 
 
-Processo
+## Processo
 Coloque informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
 
 Links Úteis:
