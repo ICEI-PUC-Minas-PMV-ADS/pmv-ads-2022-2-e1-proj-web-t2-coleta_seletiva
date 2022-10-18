@@ -2,7 +2,7 @@
 
 `Análise e Desenvolvimento de Sistemas`
 
-`Projeto de desenvolvimento Frontend`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
 `1º Semestre`
 
