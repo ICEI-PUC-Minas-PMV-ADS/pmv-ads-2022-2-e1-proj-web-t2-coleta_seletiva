@@ -1,4 +1,4 @@
-# COLETA SELETIVA
+# COLETA SELETIVA - RECICLE-SE
 
 `Análise e Desenvolvimento de Sistemas`
 
