@@ -1,10 +1,6 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-## Projeto de interface
-
 O site "Recicle-se" será disponibilizado na rede para que os usuários possam acessar pelos seguintes caminhos: Qrcode fixados nas áreas de divulgação, links ou pela busca na web(google, bing, etc..).
 
 #### Página inicial
