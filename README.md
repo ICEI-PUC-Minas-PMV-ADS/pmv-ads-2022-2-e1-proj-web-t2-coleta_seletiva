@@ -7,6 +7,7 @@
 `1º Semestre`
 
 Um website em desenvolvimento, capaz de auxiliar empresas e usuários comuns sobre o serviço de coleta de lixo prestado na região.
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/Sem%20Título-2.png" width="605" height="450"/>
 
 ## Integrantes
 
