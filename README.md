@@ -6,7 +6,8 @@
 
 `1º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Um website em desenvolvimento, capaz de auxiliar empresas e usuários comuns sobre o serviço de coleta de lixo prestado na região.
+![This is an image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/Sem%20Título-2.png)
 
 ## Integrantes
 
