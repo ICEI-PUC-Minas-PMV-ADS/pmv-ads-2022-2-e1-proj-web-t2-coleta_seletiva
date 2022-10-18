@@ -58,35 +58,15 @@ Luisa Coutinho
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Project estruturado com as seguintes listas: 
 
 
+Processo
+Coloque informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
 
-## Projeto de interface
+Links Úteis:
 
-O site "Recicle-se" será disponibilizado na rede para que os usuários possam acessar pelos seguintes caminhos: Qrcode fixados nas áreas de divulgação, links ou pela busca na web(google, bing, etc..).
-
-#### Página inicial
-A página inicial contará com carrossel de informações à esquerda, sendo notícias, infográficos, campanhas de conscientização, entre outros.
-Á direita um menu de busca no qual o usuário poderá selecionar informações de seu interesse:
-Rede de coleta Locais (Cidades e bairros) que aderem a coleta seletiva;
-* Rotas, datas e horários de coleta seletiva;
-
-#### Afinal, o que é coleta seletiva? 
-* Informações sobre a importância da coleta seletiva e reciclagem dos materiais;
-* Instruções sobre separação e higienização do material a ser coletado;
-* Dicas 3 R's - Reduzir, reutilizar e reciclar;
-* Campanhas Educativas;
-* Parcerias Educacionais - Link de instituições de ensino como Etec´s e Faculdades que oferecem conteúdo  como artigos, entrevistas com especialistas, entre outros, para o site.
-
-#### Diversão e interatividade
-* Quizzes;
-* Espaço maker com sucata - Vídeos ensinando a utilizar sucata como matéria prima para soluções do dia a dia.
-
-#### Ecossistema Recicle-se;
-* Lista de contatos das cooperativas de reciclagem na região;
-* Eventos de formação dos cooperados;
-* Dicas de segurança do trabalho;
-* Associe-se ao “Recicle-se” e faça parte do nosso ecossistema de cooperativas!
-* Contato direto com empresas compradoras de materiais recicláveis;
-* Fale conosco.
+> - [Project management, made simple](https://github.com/features/issues)
+> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
+> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
+> - [Tutorial Slack](https://slack.com/intl/pt-br/)
 
 ## Ferramentas
 
