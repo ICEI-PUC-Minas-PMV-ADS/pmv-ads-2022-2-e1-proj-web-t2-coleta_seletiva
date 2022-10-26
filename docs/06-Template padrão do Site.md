@@ -1,5 +1,5 @@
 <M1>Template do Site</M1>
-
+(img/wireframe.png)
 Figura X - Template padrão do site
 
 Tela Principal
