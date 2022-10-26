@@ -31,7 +31,8 @@ Rede de coleta Locais (Cidades e bairros) que aderem a coleta seletiva;
 
 ## User Flow
 
-![Exemplo de UserFlow](img/Fluxo do usuario.png)
+![Userflow](https://user-images.githubusercontent.com/115198478/198114444-aac6753c-34b6-46bc-86da-bebe68a9a9e6.png)
+ng)
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
