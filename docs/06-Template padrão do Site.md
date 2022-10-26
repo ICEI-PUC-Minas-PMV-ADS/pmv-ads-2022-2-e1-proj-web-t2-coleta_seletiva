@@ -1,4 +1,4 @@
-Template do Site
+<M1>Template do Site</M1>
 
 Figura X - Template padrão do site
 
