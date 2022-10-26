@@ -1,5 +1,6 @@
 <M1>Template do Site</M1>
-(img/wireframe.png)
+## WIRE FRAME
+![Exemplo de wireframe](img/wireframe.png)
 Figura X - Template padrão do site
 
 Tela Principal
