@@ -31,8 +31,8 @@ Rede de coleta Locais (Cidades e bairros) que aderem a coleta seletiva;
 
 ## User Flow
 
-![Userflow](https://user-images.githubusercontent.com/115198478/198114444-aac6753c-34b6-46bc-86da-bebe68a9a9e6.png)
-ng)
+![Userflow](https://user-images.githubusercontent.com/115198478/198114444-aac6753c-34b6-46bc-86da-bebe68a9a9e6.png) <br>
+###### Figura X - UserFlow
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
@@ -45,6 +45,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 ## Wireframes
 
 ![Exemplo de Wireframe](img/wireframe.png)
+###### Figura X - Wireframe
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
