@@ -26,9 +26,7 @@ A solução implementada conta com os seguintes módulos:
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 # Hospedagem
-O site utiliza a plataforma do GitHub Pages como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
+O site utiliza a plataforma do GitHub Pages como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: https://link_exemplo.githubpages.com 
 
-https://link_exemplo.githubpages.com 
-A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
-https://git.pages.com/link_exemplo.git
+A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: https://git.pages.com/link_exemplo.git
 
