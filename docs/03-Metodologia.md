@@ -65,7 +65,6 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 * `Locked:` Nesta coluna serão postas as tarefas que foram impedidas de progredir e que devemos solucionar.
 
 ## Ferramentas
-
 As ferramentas empregadas no projeto são:
 
 - Editor de código.
