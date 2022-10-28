@@ -57,16 +57,12 @@ Luisa Coutinho
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Project estruturado com as seguintes listas: 
 
-
-## Processo
-Coloque informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-
-Links Úteis:
-
-> - [Project management, made simple](https://github.com/features/issues)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/pt-br/)
+* **Backlog:** Serão colocadas as tarefas necessárias para a criação do produto;
+* **To do:** Possui as tarefas que serão incluídas na sprint;
+* **In progress:** São as tarefas que foram iniciadas e estão em desenvolvimento;
+* **Test:** Tarefas que foram concluídas e serão verificadas para controlarmos a qualidade do desenvolvimento;
+* **Done:** Contém as tarefas que foram concluídas e verificadas;
+* **Locked:** Nesta coluna serão postas as tarefas que foram impedidas de progredir e que devemos solucionar.
 
 ## Ferramentas
 
