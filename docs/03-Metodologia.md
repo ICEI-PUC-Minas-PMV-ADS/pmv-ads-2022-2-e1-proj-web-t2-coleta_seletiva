@@ -57,12 +57,12 @@ Luisa Coutinho
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Project estruturado com as seguintes listas: 
 
-* **Backlog:** Serão colocadas as tarefas necessárias para a criação do produto;
-* **To do:** Possui as tarefas que serão incluídas na sprint;
-* **In progress:** São as tarefas que foram iniciadas e estão em desenvolvimento;
-* **Test:** Tarefas que foram concluídas e serão verificadas para controlarmos a qualidade do desenvolvimento;
-* **Done:** Contém as tarefas que foram concluídas e verificadas;
-* **Locked:** Nesta coluna serão postas as tarefas que foram impedidas de progredir e que devemos solucionar.
+* `Backlog:` Serão colocadas as tarefas necessárias para a criação do produto;
+* `To do:` Possui as tarefas que serão incluídas na sprint;
+* `In progress:` São as tarefas que foram iniciadas e estão em desenvolvimento;
+* `Test:` Tarefas que foram concluídas e serão verificadas para controlarmos a qualidade do desenvolvimento;
+* `Done:` Contém as tarefas que foram concluídas e verificadas;
+* `Locked:` Nesta coluna serão postas as tarefas que foram impedidas de progredir e que devemos solucionar.
 
 ## Ferramentas
 
