@@ -65,20 +65,19 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 * `Locked:` Nesta coluna serão postas as tarefas que foram impedidas de progredir e que devemos solucionar.
 
 ## Ferramentas
+
 As ferramentas empregadas no projeto são:
 
-- VS Code
-- GIT
-- GitHub
-- MarvelApp
-- Canvas
-- Microsoft Teams
+#### Editores de código
+* `VS Code:`Este editor de código foi escolhido por possuir integração com o Git e GitHub, além de suas inúmeras variedades que facilitam a programação.
+* `GitHub:`Foi utilizada tanto como editor de código quanto ferramenta para a organização, serve como ambiente de armazenamento e edição do repositório do projeto.
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+#### Ferramentas para comunicação e organização do projeto
 
+* `Microsoft Teams:` Foi escolhido por ser o software padrão para as aulas e comunicação entre os alunos.
+* `GitHub Projects:` Ferramenta utilizada para a organização, separação das etapas e afazeres do projeto.
+* `Google Docs:` Foi utilizada para a confecção da documento do projeto.
 
- 
+#### Ferramentas para wireframing (desenhos de tela)
+
+- `MarvelApp:` Software escolhido para o desenvolvimento do layout das telas do site.
