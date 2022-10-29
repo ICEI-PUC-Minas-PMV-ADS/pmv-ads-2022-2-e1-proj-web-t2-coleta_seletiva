@@ -63,6 +63,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 > * `Done:` Contém as tarefas que foram concluídas e verificadas;
 > * `Locked:` Nesta coluna serão postas as tarefas que foram impedidas de progredir e que devemos solucionar.
 
+![GitHubProjects](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/projects%20-%20reciclese%20-%20githubprojects.png) <br>
+
 ## Ferramentas
 
 As ferramentas empregadas no projeto são:
