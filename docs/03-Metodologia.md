@@ -1,7 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
@@ -70,7 +69,7 @@ As ferramentas empregadas no projeto são:
 
 #### Editores de código
 * `VS Code:`Este editor de código foi escolhido por possuir integração com o Git e GitHub, além de suas inúmeras variedades que facilitam a programação.
-* `GitHub:`Foi utilizada tanto como editor de código quanto ferramenta para a organização, serve como ambiente de armazenamento e edição do repositório do projeto.
+* `GitHub e Git:`Foi utilizada tanto como editor de código quanto ferramenta para a organização, serve como ambiente de armazenamento e edição do repositório do projeto.
 
 #### Ferramentas para comunicação e organização do projeto
 
