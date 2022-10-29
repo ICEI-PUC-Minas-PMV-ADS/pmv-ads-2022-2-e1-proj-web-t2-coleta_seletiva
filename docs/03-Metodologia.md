@@ -20,18 +20,18 @@ foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+> - `main`: versão estável já testada do software
+> - `unstable`: versão já testada do software, porém instável
+> - `testing`: versão em testes do software
+> - `dev`: versão de desenvolvimento do software
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+> - `documentation`: melhorias ou acréscimos à documentação
+> - `bug`: uma funcionalidade encontra-se com problemas
+> - `enhancement`: uma funcionalidade precisa ser melhorada
+> - `feature`: uma nova funcionalidade precisa ser introduzida
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
@@ -68,15 +68,13 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 As ferramentas empregadas no projeto são:
 
 #### Editores de código
-* `VS Code:`Este editor de código foi escolhido por possuir integração com o Git e GitHub, além de suas inúmeras variedades que facilitam a programação.
-* `GitHub e Git:`Foi utilizada tanto como editor de código quanto ferramenta para a organização, serve como ambiente de armazenamento e edição do repositório do projeto.
+> * `VS Code`: Este editor de código foi escolhido por possuir integração com o Git e GitHub, além de suas inúmeras variedades que facilitam a programação.
+> * `GitHub e Git`: Foi utilizada tanto como editor de código quanto ferramenta para a organização, serve como ambiente de armazenamento e edição do repositório do projeto.
 
 #### Ferramentas para comunicação e organização do projeto
-
-* `Microsoft Teams:` Foi escolhido por ser o software padrão para as aulas e comunicação entre os alunos.
-* `GitHub Projects:` Ferramenta utilizada para a organização, separação das etapas e afazeres do projeto.
-* `Google Docs:` Foi utilizada para a confecção da documento do projeto.
+> * `Microsoft Teams`: Foi escolhido por ser o software padrão para as aulas e comunicação entre os alunos.
+> * `GitHub Projects`: Ferramenta utilizada para a organização, separação das etapas e afazeres do projeto.
+> * `Google Docs`: Foi utilizada para a confecção da documento do projeto.
 
 #### Ferramentas para wireframing (desenhos de tela)
-
-- `MarvelApp:` Software escolhido para o desenvolvimento do layout das telas do site.
+> - `MarvelApp`: Software escolhido para o desenvolvimento do layout das telas do site.
