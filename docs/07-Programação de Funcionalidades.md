@@ -108,6 +108,10 @@ Descompacte o arquivo em uma pasta específica;
 Abra o Visual Studio Code e execute o Live Server;
 Abra um navegador de Internet e informe a seguinte URL:
 http://localhost:5500/index.html 
+  
+  
+  
+  
 
 ## Página Associe-se e Login (RF-09)
   Apresenta uma tela de Login, que permite o usuário desbloquear funções previamente não disponíveis (registrar; endereços, cooperativas, ideias de pontos de coleta) 
@@ -133,6 +137,9 @@ Artefatos da funcionalidade:
   
 ### Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/Cadastro.html
+  
+  
+  
   
 ## Página - Diversão e Interatividade (RF-08)
  
