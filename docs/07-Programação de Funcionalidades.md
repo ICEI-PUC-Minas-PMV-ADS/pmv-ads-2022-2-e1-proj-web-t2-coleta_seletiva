@@ -23,7 +23,7 @@ Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pa
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
 O que é coleta seletiva - (RF-12)
-A tela O que é coleta seletiva apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
+Apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
 
 
 (img/PS_OqueéColetaSeletova_code.png)
