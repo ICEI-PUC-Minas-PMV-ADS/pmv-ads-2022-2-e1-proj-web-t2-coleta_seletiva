@@ -25,7 +25,7 @@ A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 O que é coleta seletiva (RF-12)
 A tela de pesquisa permite ao usuário informar um texto que será pesquisado na base de notícias e retornar todas as notícias relacionadas com o texto informado pelo usuário.
 
-!(img/PS_OqueéColetaSeletova_code.png)
+(img/arquitetura_da_solução.png.png)
 
 Requisitos atendidos:
 RF-12 -
