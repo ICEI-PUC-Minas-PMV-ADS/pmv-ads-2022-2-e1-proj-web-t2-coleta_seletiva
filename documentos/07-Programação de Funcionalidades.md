@@ -23,7 +23,35 @@ Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pa
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
 
+Rede De Coleta: <br>
 
+Mapa mostra as Cidades e Bairros de Coleta <br>
+
+
+Rede de Coleta : (RF-05 e RF-07) <br>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/tela%20joanes.jpg">
+
+Requisitos Atendidos: 
+<ul><li>RF-05</li>
+<li>RF-07</li>
+
+Artefatos da Funcionalidade
+
+<ul><li>index.html</li>
+<li>index.html</li>
+<li>style.css</li>
+<li>bairro1</li>
+<li>cidade</li>
+<li>data e horarios</li>
+<li>icon</li>
+<li>lupa</li>
+<li>map</li>
+
+Estrutura de Dados: <br>
+
+Intruções de Acesso: <br>
+
+Abra o navegador da Internet e informe a seguinte URL:http:127.0.0.1:5500/index.html
 
 
 
