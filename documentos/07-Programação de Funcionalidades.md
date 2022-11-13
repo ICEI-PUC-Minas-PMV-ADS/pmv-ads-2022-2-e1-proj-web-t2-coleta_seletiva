@@ -31,14 +31,14 @@ A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
  RF-07
 
 -Artefatos da funcionalidade:
- css
- html
- lupa.png
- cidade.png
- bairro1.png
- data e horario.png
- map.png
- icon.png
+ .css
+ .html
+ .lupa.png
+ .cidade.png
+ .bairro1.png
+ .data e horario.png
+ .map.png
+ .icon.png
 
 
 
