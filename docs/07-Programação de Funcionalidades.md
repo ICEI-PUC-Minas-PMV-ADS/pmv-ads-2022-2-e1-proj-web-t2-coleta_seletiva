@@ -32,7 +32,7 @@ Requisitos atendidos:
 RF-12 -
 
 Artefatos da funcionalidade:
-pagina_inicial.hmtl
+pagina_inicial.hmtl <br>
 style.css
 coletascript.js
 coleta.seletiva.png
