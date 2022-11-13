@@ -120,3 +120,29 @@ Artefatos da funcionalidade:
   
 ### Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/Cadastro.html
+  
+## Página - Diversão e Interatividade (RF-08)
+  
+  Apresenta uma tela interativa onde há alguns vídeos do youtube inseridos e três caixas (vídeos interativos, jogos e quizzes e espaço maker com sucata).
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/diversão_e_interatividade_página_.png">
+##### Tela - Interatividade
+  
+### Requisitos atendidos:
+  
+  <li>RF-08</li>
+  <li>RF-01</li>
+  </br>
+  
+ ####Artefatos da funcionalidade:
+<ul>
+  
+ <li>interatividade_e_diversão.hmtl</li>
+<li>style.css</li>
+<li>coletascript.js</li>
+<li>coleta.seletiva.png</li>
+<li>lupa.png</li>
+
+</ul>
+  
+### Instruções de acesso
+Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/interatividade_e_diversao.html
