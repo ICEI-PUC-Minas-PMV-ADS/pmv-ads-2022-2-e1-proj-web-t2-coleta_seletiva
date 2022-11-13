@@ -1,7 +1,5 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
-
 Página Inicial -(RF-01 e RF-02)<br>
 
 Apresenta um menu navegável onde o usuário poderá selecionar o tipo de informação que deseja(Rede de coleta, Afinal, o que é coleta seletiva, Diversão e interatividade, Ecossistema, FAQ). Além de ter acesso a notícias , calendário de eventos e informações importantes.
@@ -122,10 +120,10 @@ Artefatos da funcionalidade:
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/Cadastro.html
   
 ## Página - Diversão e Interatividade (RF-08)
+ 
+Apresenta uma tela interativa onde há alguns vídeos do youtube inseridos e três caixas (vídeos interativos, jogos e quizzes e espaço maker com sucata).
   
-  Apresenta uma tela interativa onde há alguns vídeos do youtube inseridos e três caixas (vídeos interativos, jogos e quizzes e espaço maker com sucata).
-  
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/diversão_e_interatividade_página_.png">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/diversão_e_interatividade_página_.png">
   
 ##### Tela - Interatividade
   
@@ -147,4 +145,4 @@ Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/Ca
 </ul>
   
 ### Instruções de acesso
-Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/interatividade_e_diversao.html
+> Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/interatividade_e_diversao.html
