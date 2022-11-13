@@ -25,14 +25,14 @@ A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 -REDE DE COLETA  (RF-05 e RF 07):
  Mapa de coleta das Cidades e Bairros.
 
-.REDE DE COLETA  (RF-05 e RF 07):
+REDE DE COLETA  (RF-05 e RF 07):
  Mapa de coleta das Cidades e Bairros.
 
-.Requisitos atendidos:
+Requisitos atendidos:
  RF-05
  RF-07
 
-.Artefatos da funcionalidade:
+Artefatos da funcionalidade:
  css
  html
  lupa.png
