@@ -86,10 +86,25 @@ Artefatos da funcionalidade
 Nome da tela  -(Requisitos ) 
 
 
+O que é coleta seletiva (RF-12)
+A tela de pesquisa permite ao usuário informar um texto que será pesquisado na base de notícias e retornar todas as notícias relacionadas com o texto informado pelo usuário.
 
-Requisitos atendidos
+(img/PSOqueéColetaSeletova_code.png)
 
+Requisitos atendidos:
+RF-12 -
 
+Artefatos da funcionalidade:
+pagina_inicial.hmtl
+style.css
+coletascript.js
+coleta.seletiva.png
+comosepararlixo.png
+lupa.png
 
-
-Artefatos da funcionalidade
+Instruções de acesso
+Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+Descompacte o arquivo em uma pasta específica;
+Abra o Visual Studio Code e execute o Live Server;
+Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/index.html 
