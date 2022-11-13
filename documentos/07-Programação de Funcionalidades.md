@@ -28,7 +28,7 @@ REDE DE COLETA  (RF05  e RF07): <br>
 
 
 Requisitos atendidos: <br>
- RF-05
+ RF-05-
  RF-07
 
 Artefatos da funcionalidade:
