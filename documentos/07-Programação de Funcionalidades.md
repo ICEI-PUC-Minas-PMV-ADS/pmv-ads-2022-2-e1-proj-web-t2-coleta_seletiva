@@ -30,7 +30,7 @@ Requisitos atendidos:
  RF-05
  RF-07
 
-Artefatos da funcionalidade:br
+Artefatos da funcionalidade:<br>
  style.css
  index.html
  lupa.png
