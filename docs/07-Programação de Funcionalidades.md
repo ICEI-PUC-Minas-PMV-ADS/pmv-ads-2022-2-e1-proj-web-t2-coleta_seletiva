@@ -29,7 +29,7 @@ Apresenta uma página com notícias, campanhas educativas, parcerias educativas 
 (img/PS_OqueéColetaSeletova_code.png)
 
 Requisitos atendidos:
-RF-12 -
+RF-12
 
 Artefatos da funcionalidade:
 <ul><li>pagina_inicial.hmtl</li>
