@@ -137,12 +137,12 @@ Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/Ca
   
 #### Artefatos da funcionalidade:
 <ul>
-  
-<li>interatividade_e_diversão.hmtl</li>
-<li>style.css</li>
-<li>coletascript.js</li>
-<li>coleta.seletiva.png</li>
-<li>lupa.png</li>
+
+  <li>interatividade_e_diversão.hmtl</li>
+  <li>style.css</li>
+  <li>coletascript.js</li>
+  <li>coleta.seletiva.png</li>
+  <li>lupa.png</li>
 
 </ul>
   
