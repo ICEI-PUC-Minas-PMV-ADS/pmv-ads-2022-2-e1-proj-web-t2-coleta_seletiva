@@ -22,22 +22,36 @@ Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pagina2.html
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
-O que é coleta seletiva - (RF-12) <br>
-Apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
 
 
-(img/PS_OqueéColetaSeletova_code.png)
+
+
+
+
+
+
+
+
+
+
+Faq (RF-10)
+
+
+O que é coleta seletiva (RF-12)
+A tela de pesquisa permite ao usuário informar um texto que será pesquisado na base de notícias e retornar todas as notícias relacionadas com o texto informado pelo usuário.
+
+!(img/PS_OqueéColetaSeletova_code.png)
 
 Requisitos atendidos:
-RF-12
+RF-12 -
 
 Artefatos da funcionalidade:
-<ul><li>pagina_inicial.hmtl</li>
-  <li>style.css</li>
-<li>coletascript.js</li>
-<li>coleta.seletiva.png</li>
-<li>comosepararlixo.png</li>
-<li>lupa.png</li></ul>
+pagina_inicial.hmtl
+style.css
+coletascript.js
+coleta.seletiva.png
+comosepararlixo.png
+lupa.png
 
 Instruções de acesso
 Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
