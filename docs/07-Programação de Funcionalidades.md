@@ -43,7 +43,7 @@ Faq (RF-10)
 O que é coleta seletiva (RF-12)<br>
 Apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
 
-<img "psoquecoletaseletivacode.png">
+<img src="psoquecoletaseletivacode.png">
 
 Requisitos atendidos:
 RF-12
