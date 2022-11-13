@@ -37,21 +37,21 @@ A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 Faq (RF-10)
 
 
-O que é coleta seletiva (RF-12)
-A tela de pesquisa permite ao usuário informar um texto que será pesquisado na base de notícias e retornar todas as notícias relacionadas com o texto informado pelo usuário.
+O que é coleta seletiva (RF-12)<br>
+Apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
 
-!(img/PS_OqueéColetaSeletova_code.png)
+(img/PSOqueéColetaSeletova_code.png)
 
 Requisitos atendidos:
-RF-12 -
+RF-12
 
 Artefatos da funcionalidade:
-pagina_inicial.hmtl
-style.css
-coletascript.js
-coleta.seletiva.png
-comosepararlixo.png
-lupa.png
+<ul><li>pagina_inicial.hmtl</li>
+<li>style.css</li>
+<li>coletascript.js</li>
+<li>coleta.seletiva.png</li>
+<li>comosepararlixo.png</li>
+<li>lupa.png</li></ul>
 
 Instruções de acesso
 Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
