@@ -22,11 +22,9 @@ Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pagina2.html
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
--REDE DE COLETA  (RF-05 e RF 07):
- Mapa de coleta das Cidades e Bairros.
-
 REDE DE COLETA  (RF-05 e RF 07):
  Mapa de coleta das Cidades e Bairros.
+
 
 Requisitos atendidos:
  RF-05
