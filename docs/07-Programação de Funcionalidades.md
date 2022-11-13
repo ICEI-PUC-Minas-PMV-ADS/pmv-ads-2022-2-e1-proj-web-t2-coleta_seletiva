@@ -124,6 +124,7 @@ Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/Ca
 ## Página - Diversão e Interatividade (RF-08)
   
   Apresenta uma tela interativa onde há alguns vídeos do youtube inseridos e três caixas (vídeos interativos, jogos e quizzes e espaço maker com sucata).
+  
  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/diversão_e_interatividade_página_.png">
 ##### Tela - Interatividade
   
