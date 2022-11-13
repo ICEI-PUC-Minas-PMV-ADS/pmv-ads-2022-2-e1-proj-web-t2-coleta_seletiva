@@ -61,19 +61,20 @@ RF-10
 
 Artefatos da Funcionalidade:
  <img src="lupa.png" height="20" width="20">
-                </a>
-            </div>
-        </div>
-    </nav>
-    </header>
-
-    <main>
-            <a class="btn-link" href="botton">Fale Conosco</a>
-            <a class="btn-link" href="botton">WhatsApp</a>
-            <a class="btn-link" href="botton">Chat 24hs</a>
-
-
-
+ <a class="btn-link" href="botton">Fale Conosco</a>
+ <a class="btn-link" href="botton">WhatApp</a>
+ <a class="btn-link" href="botton">Chat 24hs</a>
+ 
+ 
+ 
+             
+          
+          
+          
+          
+          
+          
+          
 O que é coleta seletiva (RF-12)<br>
 Apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
 
