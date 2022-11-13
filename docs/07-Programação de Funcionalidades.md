@@ -26,7 +26,7 @@ Instruções de acesso:
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pagina2.html
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
-####Rede.De Coleta: <br>
+Rede de Coleta<br>
 
 Mapa mostra as Cidades e Bairros de Coleta <br>
 
