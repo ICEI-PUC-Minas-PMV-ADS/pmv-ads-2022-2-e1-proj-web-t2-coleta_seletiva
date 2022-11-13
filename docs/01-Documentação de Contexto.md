@@ -34,6 +34,7 @@ Por mais que haja divulgação de informações sobre coleta seletiva ainda é u
 Na Figura 1 podemos ver que apesar do aumento das iniciativas na coleta seletiva ainda falta em boa parte dos Municípios do Brasil o apoio da coleta seletiva.
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/Municípios_com_iniciativas_de_coleta_seletiva.png">
+
 ###### Figura 1: Municípios com iniciativas de coleta seletiva
 
 # Público-Alvo
