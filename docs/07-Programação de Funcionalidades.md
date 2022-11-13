@@ -76,7 +76,7 @@ http://localhost:5500/index.html
   
 ### Requisitos atendidos:
   
-  <li>RF-09</li>
+  <li>RF-09</li><br>
   
 Artefatos da funcionalidade:
 <ul><li>Cadastro.hmtl</li>
