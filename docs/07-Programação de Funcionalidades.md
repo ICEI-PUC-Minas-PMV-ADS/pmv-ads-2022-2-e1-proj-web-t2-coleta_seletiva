@@ -67,6 +67,21 @@ http:127.0.0.1:5500/index.html
 
 
 Faq (RF-10)
+Faq (RF-10)A FAQ serve para tirar dúvidas e informar sobre os assuntos que mais impactam um determinado público – os clientes, na maioria da vezes. Na FAQ, são encontrados (ou deveriam ser) os temas que causam maior problema para usuários e, por consequência disso, maior esforço da equipe de atendimento.1
+Requisitos atendidos:
+RF-10
+
+Artefatos da Funcionalidade:
+ <img src="lupa.png" height="20" width="20">
+ <a class="btn-link" href="botton">Fale Conosco</a>
+ <a class="btn-link" href="botton">WhatApp</a>
+ <a class="btn-link" href="botton">Chat 24hs</a>
+
+
+
+
+
+
 
 
 O que é coleta seletiva (RF-12)<br>
