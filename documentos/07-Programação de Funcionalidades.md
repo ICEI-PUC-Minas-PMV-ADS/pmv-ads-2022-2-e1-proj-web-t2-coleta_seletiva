@@ -56,6 +56,9 @@ Artefatos da funcionalidade:<br>
 
 
 Faq (RF-10)A FAQ serve para tirar dúvidas e informar sobre os assuntos que mais impactam um determinado público – os clientes, na maioria da vezes. Na FAQ, são encontrados (ou deveriam ser) os temas que causam maior problema para usuários e, por consequência disso, maior esforço da equipe de atendimento.
+Requisitos atendidos:
+RF-10
+
 
 
 O que é coleta seletiva (RF-12)<br>
