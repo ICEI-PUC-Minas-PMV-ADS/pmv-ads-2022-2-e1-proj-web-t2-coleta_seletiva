@@ -85,5 +85,5 @@ Artefatos da funcionalidade:
 <li>coleta.seletiva.png</li>
 <li>lupa.png</li></ul>
   
-###Instruções de acesso
+### Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/Cadastro.html
