@@ -5,7 +5,7 @@
 Página Inicial -(RF-01 e RF-02)<br>
 
 Apresenta um menu navegável onde o usuário poderá selecionar o tipo de informação que deseja(Rede de coleta, Afinal, o que é coleta seletiva, Diversão e interatividade, Ecossistema, FAQ). Além de ter acesso a notícias , calendário de eventos e informações importantes.
-(img/PS_Telainicial_code.jpg)
+(PS_Telainicial_code.jpg)
 
 Requisitos atendidos:
 <ul><li>RF-01</li>
