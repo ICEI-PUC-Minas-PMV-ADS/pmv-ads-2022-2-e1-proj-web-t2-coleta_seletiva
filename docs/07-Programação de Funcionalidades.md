@@ -22,8 +22,9 @@ Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pagina2.html
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
-O que é coleta seletiva (RF-12)
-A tela de pesquisa permite ao usuário informar um texto que será pesquisado na base de notícias e retornar todas as notícias relacionadas com o texto informado pelo usuário.
+O que é coleta seletiva- (RF-12)
+A tela O que é coleta seletiva apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
+
 
 (img/PS_OqueéColetaSeletova_code.png)
 
