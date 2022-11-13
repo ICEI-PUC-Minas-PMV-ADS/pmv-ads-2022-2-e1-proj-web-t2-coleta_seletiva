@@ -22,4 +22,74 @@ Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pagina2.html
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
+Nome da tela  -(Requisitos ) 
 
+
+
+Requisitos atendidos
+
+
+
+
+Artefatos da funcionalidade
+
+
+
+
+Nome da tela  -(Requisitos ) 
+
+
+
+Requisitos atendidos
+
+
+
+
+Artefatos da funcionalidade
+
+
+
+
+
+
+Nome da tela  -(Requisitos ) 
+
+
+
+Requisitos atendidos
+
+
+
+
+Artefatos da funcionalidade
+
+
+
+
+
+
+Nome da tela  -(Requisitos ) 
+
+
+
+Requisitos atendidos
+
+
+
+
+Artefatos da funcionalidade
+
+
+
+
+
+Nome da tela  -(Requisitos ) 
+
+
+
+Requisitos atendidos
+
+
+
+
+Artefatos da funcionalidade
