@@ -69,6 +69,7 @@ http://localhost:5500/index.html
   Apresenta uma tela de Login, que permite o usuário desbloquear funções previamente não disponíveis (registrar; endereços, cooperativas, ideias de pontos de coleta) 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/PS_Login_code.png">
   ##### Tela de Login
+  
   Apresenta uma tela de Formulário, que permite o usuario criar uma nova conta, seja ela profissional ou pessoal.
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/PS_Associese_code.png">
   ##### Tela associe-se
