@@ -75,7 +75,7 @@ http://localhost:5500/index.html
   ##### Tela associe-se
   
 ### Requisitos atendidos:
-  RF-09
+  <li>RF-09</li>
   
 Artefatos da funcionalidade:
 <ul><li>Cadastro.hmtl</li>
