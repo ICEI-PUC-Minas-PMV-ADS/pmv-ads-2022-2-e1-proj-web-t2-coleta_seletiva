@@ -31,14 +31,15 @@ Requisitos atendidos:
  RF-07
 
 Artefatos da funcionalidade:<br>
- style.css
- index.html
- lupa.png
- cidade.png
- bairro1.png
- data e horario.png
- map.png
- icon.png
+ style.css  <br>
+ index.html <br>
+ lupa.png   <br>
+ cidade.png <br>
+ bairro1.png <br>
+ data e horario.png <br>
+ map.png     <br>
+ icon.png    <br>
+
 
 
 
