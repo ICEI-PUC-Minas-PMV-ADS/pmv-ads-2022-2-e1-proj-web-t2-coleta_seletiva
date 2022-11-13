@@ -59,6 +59,19 @@ Faq (RF-10)A FAQ serve para tirar dúvidas e informar sobre os assuntos que mais
 Requisitos atendidos:
 RF-10
 
+Artefatos da Funcionalidade:
+ <img src="lupa.png" height="20" width="20">
+                </a>
+            </div>
+        </div>
+    </nav>
+    </header>
+
+    <main>
+            <a class="btn-link" href="botton">Fale Conosco</a>
+            <a class="btn-link" href="botton">WhatsApp</a>
+            <a class="btn-link" href="botton">Chat 24hs</a>
+
 
 
 O que é coleta seletiva (RF-12)<br>
