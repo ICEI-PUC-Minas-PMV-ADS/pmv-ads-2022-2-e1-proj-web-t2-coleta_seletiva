@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-Página Inicial -(RF-01 e RF-02)<br>
+## Página Inicial -(RF-01 e RF-02)<br>
 
 Apresenta um menu navegável onde o usuário poderá selecionar o tipo de informação que deseja(Rede de coleta, Afinal, o que é coleta seletiva, Diversão e interatividade, Ecossistema, FAQ). Além de ter acesso a notícias , calendário de eventos e informações importantes.
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/PS_Telainicial_code%20.jpg">
@@ -24,7 +24,7 @@ Instruções de acesso:
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pagina2.html
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
-Rede De Coleta: <br>
+## Rede De Coleta: <br>
 
 Mapa mostra as Cidades e Bairros de Coleta <br>
 
@@ -55,17 +55,9 @@ Intruções de Acesso: <br>
 Abra o navegador da Internet e informe a seguinte URL:http:127.0.0.1:5500/index.html
 
 
+ 
 
-
-
-
-
-
-
-
-
-
-Faq (RF-10)
+## Faq (RF-10)
 Faq (RF-10)A FAQ serve para tirar dúvidas e informar sobre os assuntos que mais impactam um determinado público – os clientes, na maioria da vezes. Na FAQ, são encontrados (ou deveriam ser) os temas que causam maior problema para usuários e, por consequência disso, maior esforço da equipe de atendimento.1
 Requisitos atendidos:
 RF-10
@@ -80,10 +72,7 @@ Artefatos da Funcionalidade:
 
 
 
-
-
-
-O que é coleta seletiva (RF-12)<br>
+## O que é coleta seletiva (RF-12)<br>
 Apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
 
 
