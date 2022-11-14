@@ -61,7 +61,7 @@ Abra o navegador da Internet e informe a seguinte URL:http:127.0.0.1:5500/index.
   Faq: <br> 
 Faq (RF-10): <br>
 A FAQ serve para tirar dúvidas e informar sobre os assuntos que mais impactam um determinado público – os clientes, na maioria das vezes. Na FAQ, são encontrados (ou deveriam ser) os temas que causam maior problema para usuários e, por consequência disso, maior esforço da equipe de atendimento.<br>
-< img src= “https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/faq.png”> <br>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/Faq.png"> <br>
 Requisitos atendidos:<br>
 RF-10
 
