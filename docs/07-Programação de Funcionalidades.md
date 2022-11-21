@@ -5,40 +5,38 @@
 Apresenta um menu navegável onde o usuário poderá selecionar o tipo de informação que deseja(Rede de coleta, Afinal, o que é coleta seletiva, Diversão e interatividade, Ecossistema, FAQ). Além de ter acesso a notícias , calendário de eventos e informações importantes.
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/PS_Telainicial_code%20.jpg">
 
-Requisitos atendidos:
-<ul><li>RF-01</li>
+### Requisitos atendidos:
+<li>RF-01</li>
 <li>RF-02</li>
-
+</br>
   
 Artefatos da funcionalidade
-
-<ul><li>pagina2.hmtl</li>
+<li>pagina2.hmtl</li>
 <li>style.css</li>
 <li>icon.png</li>
-<li>lupa.png</li></ul>
+<li>lupa.png</li>
 
 Estrutura de Dados
 
-Instruções de acesso:
-  
+### Instruções de acesso:
+
 Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/pagina2.html
 A tela inicial  é a primeira funcionalidade exibida pelo aplicativo.
 
-## Rede De Coleta: <br>
 
-Mapa mostra as Cidades e Bairros de Coleta <br>
+## Rede De Coleta: 
 
+Mapa mostra as Cidades e Bairros de Coleta 
 
-Rede de Coleta : (RF-05 e RF-07) <br>
+Rede de Coleta : (RF-05 e RF-07) 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/tela%20joanes.jpg">
 
-Requisitos Atendidos: 
-<ul><li>RF-05</li>
+### Requisitos Atendidos: 
+<li>RF-05</li>
 <li>RF-07</li>
-
-Artefatos da Funcionalidade
-
-<ul><li>index.html</li>
+</br>
+Artefatos da Funcionalidade:
+<li>index.html</li>
 <li>index.html</li>
 <li>style.css</li>
 <li>bairro1</li>
@@ -48,9 +46,9 @@ Artefatos da Funcionalidade
 <li>lupa</li>
 <li>map</li>
 
-Estrutura de Dados: <br>
+Estrutura de Dados
 
-Intruções de Acesso: <br>
+### Intruções de Acesso:
 
 Abra o navegador da Internet e informe a seguinte URL:http:127.0.0.1:5500/index.html
 
@@ -58,30 +56,28 @@ Abra o navegador da Internet e informe a seguinte URL:http:127.0.0.1:5500/index.
  
 
 ## Faq (RF-10)
-  Faq: <br> 
+Faq: <br> 
 Faq (RF-10): <br>
-A FAQ serve para tirar dúvidas e informar sobre os assuntos que mais impactam um determinado público – os clientes, na maioria das vezes. Na FAQ, são encontrados (ou deveriam ser) os temas que causam maior problema para usuários e, por consequência disso, maior esforço da equipe de atendimento.<br>
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/Faq.png"> <br>
-Requisitos atendidos:<br>
+A FAQ serve para tirar dúvidas e informar sobre os assuntos que mais impactam um determinado público – os clientes, na maioria das vezes. Na FAQ, são encontrados (ou deveriam ser) os temas que causam maior problema para usuários e, por consequência disso, maior esforço da equipe de atendimento.
+  
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/Faq.png">
+  
+Requisitos atendidos:
 RF-10
 
 Artefatos da Funcionalidade:
- lupa.png<br>
-inicial.html<br>
-coleta.seletiva.png<br>
-style.css<br>
-Fale Conosco<br>
-WhatsApp<br>
-Bate Papo24hs<br>
+<li>lupa.png</li>
+<li>inicial.html</li>
+<li>coleta.seletiva.png</li>
+<li>style.css</li>
+<li>Fale Conosco</li>
+<li>WhatsApp</li>
+<li>Bate Papo24hs</li>
 
 
-
-
-
-
-
-
-
+  
+  
+  
 ## O que é coleta seletiva (RF-12)<br>
 Apresenta uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.
 
