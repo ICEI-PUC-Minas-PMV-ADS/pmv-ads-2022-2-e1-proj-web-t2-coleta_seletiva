@@ -11,7 +11,7 @@ Apresenta um menu navegável onde o usuário poderá selecionar o tipo de inform
 <li>RF-02</li>
 </br>
   
-Artefatos da funcionalidade
+Artefatos da funcionalidade:
 <li>pagina2.hmtl</li>
 <li>style.css</li>
 <li>icon.png</li>
