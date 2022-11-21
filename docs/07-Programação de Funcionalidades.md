@@ -56,13 +56,12 @@ Abra o navegador da Internet e informe a seguinte URL:http:127.0.0.1:5500/index.
  
 
 ## Faq (RF-10)
-Faq: <br> 
-Faq (RF-10): <br>
+
 A FAQ serve para tirar dúvidas e informar sobre os assuntos que mais impactam um determinado público – os clientes, na maioria das vezes. Na FAQ, são encontrados (ou deveriam ser) os temas que causam maior problema para usuários e, por consequência disso, maior esforço da equipe de atendimento.
   
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/blob/main/docs/img/Faq.png">
   
-Requisitos atendidos:
+### Requisitos atendidos:
 RF-10
 
 Artefatos da Funcionalidade:
@@ -96,7 +95,7 @@ Artefatos da funcionalidade:
 <li>comosepararlixo.png</li>
 <li>lupa.png</li></ul>
 
-Instruções de acesso
+### Instruções de acesso:
 Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
 Descompacte o arquivo em uma pasta específica;
 Abra o Visual Studio Code e execute o Live Server;
