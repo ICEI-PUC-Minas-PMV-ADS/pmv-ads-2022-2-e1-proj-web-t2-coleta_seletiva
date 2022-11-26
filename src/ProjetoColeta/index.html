@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Rede de Coleta</title>
+
+
+</head>
+
+<body>
+
+    <header class="menuprincipal">
+        <nav>
+            <div class="container">
+                <a class="menu" id="menu1" href=""><img src="icon.png" id="icon.png"></a>
+                <a class="menu" id="menu2" href=""><br>REDE DE COLETA</a>
+                <a class="menu" id="menu3" href=""><br>O QUE É COLETA SELETIVA?</a>
+                <a class="menu" id="menu4" href=""><br>INTERATIVIDADE</a>
+                <a class="menu" id="menu5" href=""><br>LOGIN</a>
+                <a class="menu" id="menu6" href=""><br>FAQ</a>
+                <div class="search-box">
+                    <input type="text" class="search-txt" placeholder="PESQUISAR">
+                    <a href="#" class="botao">
+                        <img src="lupa.png" height="20" width="20">
+                    </a>
+                </div>
+            </div>
+            </div>
+        </nav>
+        <br>
+    </header>
+    <style>
+        ul {
+            list-style: none;
+            display: flex;
+            justify-content: space-around;
+        }
+    </style>
+
+    <div class="opcoeslocal">
+
+        <div class="boxcidade">
+            <img class="fotocidade" src="cidade.png" width="200px">
+            <br>
+            <select id="cidades" class="cidade">
+                <option selected disabled>Escolha uma cidade</option>
+                <option>Belo Horizonte</option>
+                <option>Contagem</option>
+                <option>Nova Lima</option>
+                <option>Betim</option>
+                <option>Ibirité</option>
+            </select>
+
+
+        </div>
+        <div class="boxbairro">
+            <img class="fotobairro" src="bairro.png" width="200px">
+            <br>
+            <select id="bairros" class="bairro">
+                <option selected disabled>Escolha um bairro</option>
+                <option>Serra</option>
+                <option>Buritis</option>
+                <option>Barreiro</option>
+                <option>Tropical</option>
+                <option>Jardim Central</option>
+            </select>
+
+        </div>
+        <div class="boxdata">
+            <img class="fotodata" src="data.png">
+            <br>
+            <select id="datas" class="data">
+                <option selected disabled>Escolha um horário</option>
+                <option>12:45h</option>
+                <option>15:00h</option>
+                <option>16:30h</option>
+                <option>17:00h</option>
+                <option>17:40h</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="mapagoogle">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.566681206168!2d-43.96105267652032!3d-19.942656900962046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa69794a5e8fa03%3A0xe4e45c8ce609be67!2sRecicle%20MG!5e0!3m2!1spt-BR!2sbr!4v1669229849711!5m2!1spt-BR!2sbr"
+        style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <h1 class="titulomapa">Descubra o ponto de coleta seletiva mais próximo de você</h1>
+    </div>
+
+</body>
+
+</html>
