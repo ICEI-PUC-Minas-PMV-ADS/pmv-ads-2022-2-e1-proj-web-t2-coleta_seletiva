@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+* {box-sizing:border-box;}
+ 
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+body { 
+width: 100%;
+height: 100%;
+font-family:'Lato', sans-serif;
+background-image: url("juntão.jpg.png");
+background-repeat: repeat;
+background-position: 110%;
+background-color:#bebec3;
+text-indent: 5rem;
+}
+   
+input {
+    margin-left: 50px;
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 80px;
+}
+  
+.menu {
+    list-style: none;
+    height: 80px;
+    border-right: 2px #fdfdfd solid;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    display: inline;
+    padding-top: 30px;   
+    padding-left: 10px; 
+    padding-right: 23px;
+    font-size: 1.2vw;
+   font-family: sans-serif;
+   box-shadow:1px 1px 4px #bebec3;  
+}  
+
+#menu1{
+    width:12%;
+    padding-top:0px;
+    padding-left: 7px;
+    display: flex;
+} 
+
+#menu2{
+    width:35%;
+} 
+
+#menu3{
+    width: 55%;
+}
+
+#menu4{
+    width:35% ;
+}
+
+#menu5{
+    width:25% ;
+}
+
+#menu6{
+    width:20% ;
+}
+
+#menu7{
+    width:25% ;
+}
+
+a {
+    color:black;
+    text-decoration: none;
+    font-size: 22px;
+    padding-top: 10px;
+}
+ 
+.menu:hover {
+    background-color: #E2E6CE;
+    transition: 0.3s ease;
+    opacity: 0.8;
+}
+ 
+.container{
+    display: flex;
+   
+}
+ 
+#imgcoleta{
+    border-bottom: 0px #E5E9F1 solid;
+    border-right: 0px #E5E9F1 solid;
+    height: 10vh;
+    padding-left: 15px;
+    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;       
+}
+
+.search-box{
+    top: 0%;
+    right: 100%;
+    height: 80px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow:1px 1px 4px #bebec3;
+}
+
+.search-box:hover{
+    background-color: #E2E6CE;
+    transition: 0.3s ease;
+    opacity: 0.8;
+}
+
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+    color: black;
+    font-size: 1.2vw;
+    font-family:'Lato', sans-serif;
+    line-height: 20px;
+    width: 150px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.botao{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2px;
+    transition: 0.5s;
+}
+
+.search-box:hover > .botao {
+    background: #b1ba82;
+}
+
+.search-txt::placeholder {
+    color: black;
+    font: 20px;
+    font-family: 'Lato';
+}
+.btn-link {
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:baseline;
+    align-items: center;
+    background-color: rgb(211, 205, 205);
+    text-decoration: none;
+    border-radius: 50px;
+    border: 1px solid #000;
+    width: 220px;
+    text-align: center;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    background-color:grey;
+    color: #fff;
+     
+}
+.btn-link:hover {
+    box-shadow: 2px 2px 2px #000;
+}
