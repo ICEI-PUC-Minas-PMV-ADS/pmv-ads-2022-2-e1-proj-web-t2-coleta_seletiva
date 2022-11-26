@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+* {box-sizing:border-box;}
+ 
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+body{ width: 100%;
+height: 100%;
+font-family:'Lato', sans-serif;
+background-color: #E5E9F1;
+}
+ 
+ 
+.menu {
+    list-style: none;
+    height: 80px;
+    border-right: 2px #fdfdfd solid;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    display: inline;
+    padding-top: 30px;   
+    padding-left: 10px; 
+    padding-right: 23px;
+    font-size: 20px;
+    font-family: 'Lato';
+    box-shadow:1px 1px 4px #bebec3;
+}  
+#menu1{
+    width:12%;
+    padding-top:0px;
+    padding-left: 7px;
+    display: flex;
+} 
+#menu2{
+    width:35%;
+} 
+#menu3{
+    width: 55%;
+}
+#menu4{
+    width:35% ;
+}
+#menu5{
+    width:25% ;
+    background-color: #e2e6ce;
+}
+#menu6{
+    width:20% ;
+}
+#menu7{
+    width:25% ;
+}
+
+a {
+    color:black;
+    text-decoration: none;
+    font-size: 22px;
+    padding-top: 10px;
+}
+ 
+.menu:hover {
+    background-color: #E2E6CE;
+    transition: 0.3s ease;
+    opacity: 0.8;
+}
+ 
+.container{
+    display: flex;
+}
+ 
+#imgcoleta{
+    border-bottom: 0px #E5E9F1 solid;
+    border-right: 0px #E5E9F1 solid;
+    height: 10vh;
+    padding-left: 15px;
+    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.search-box{
+    top: 0%;
+    right: 100%;
+    height: 80px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow:1px 1px 4px #bebec3;
+}
+
+.search-box:hover{
+    background-color: #E2E6CE;
+    transition: 0.3s ease;
+    opacity: 0.8;
+}
+
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+    color: black;
+    font-size: 20px;
+    font-family:'Lato', sans-serif;
+    line-height: 20px;
+    width: 150px;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.botao{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2px;
+    transition: 0.5s;
+}
+
+.search-box:hover > .botao {
+    background: #b1ba82;
+}
+
+.area-login{
+    display: flex;
+    height: 640px;
+    justify-content: center;
+    align-items: center;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position:relative;
+    font-size: 35px;
+    font-weight: 600;
+    color: #474747;
+    background-color: #ffffff;
+    width: 480px;
+    height: 480px;
+    padding: 80px;
+    padding-top: 100px;
+    box-shadow: 5px 5px 6px #afbad4;
+}
+
+.login form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.titulo {
+    font-size: 40px;
+    font-weight: bold;
+    color: #474747;
+    padding-bottom: 5px;
+}
+
+.login input{
+    margin-top: 13px;
+    background-color: #0000000d;
+    padding-left: 10px;
+    border: none;
+    height: 42px;
+    outline: none;
+    border-radius: 7px;
+    box-shadow: 0px 0px 2px
+}
+
+.search-txt::placeholder {
+    color: black;
+    font: 20px;
+    font-family: 'Lato';
+}
+
+.formulario::placeholder{
+    color: rgb(80, 79, 79);
+    font-size: 15px;
+    font-family: 'Lato';
+}
+
+form [type="submit"]{
+    display: block;
+    background-color: #e2e6ce;
+    font-size: 20px;
+    font-weight: 300;
+    cursor: pointer;
+    box-shadow: 1px 1px 4px #afbad4;
+    font-family: 'Lato';
+}
+
+p{
+    color: #000000;
+    font-size: 12px;
+    font-weight: 100;
+    padding-top: 10px;
+    font-family: 'Lato';
+}
+
+.cad{
+    color:#0640de;
+    text-decoration: none;
+    margin-left: 6px;
+    font-size: 12px;
+    font-family: 'Lato';
+}
+
+
+.formulario input:focus{
+    background-color: #e1e5cd;
+}
+
+.enviar:hover{
+    background: #c4c8b3;
+}
+
+.desenho {
+    background: linear-gradient(180deg, #e3e9ca, #d3dca9, #ccdd86, #79893a);
+    background-size: 30%, 30%;
+    width: 24%;
+    height: 66.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    box-shadow: 5px 5px 6px #afbad4;
+}
+
+#desenhoid{
+    height: 70%;
+}
+
+.titulo::after{
+    content: '';
+    display: block;
+    width: 2.5rem;
+    height: 0.3rem;
+    background-color: #79893a;
+    margin: 0 auto;
+    position: absolute;
+    border-radius: 10px;
+}

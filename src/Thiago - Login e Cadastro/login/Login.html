@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="login.css">
+    <title>Login</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="login.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, max-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+</head>
+ 
+<body>
+ 
+    <header class="menuprincipal">
+        <nav>
+        <div class="container">
+       
+        
+        <a class="menu" id="menu1" href=""><img src="coleta.seletiva.png" id="imgcoleta"alt=""></a> 
+        <a class="menu" id="menu2" href="">REDE DE COLETA</a>
+        <a class="menu" id="menu3" href="">O QUE É COLETA SELETIVA?</a>
+        <a class="menu" id="menu4" href="">INTERATIVIDADE</a>
+        <a class="menu" id="menu5" href="">LOGIN</a>
+        <a class="menu" id="menu6" href="">FAQ</a>
+            <div class="search-box">
+                <input type="text" class="search-txt" placeholder="PESQUISAR">
+                <a href="#" class="botao">
+                    <img src="lupa.png" height="20" width="20">
+                </a>
+            </div>
+        </div>
+    </nav>
+    </header>
+    
+    <section class="area-login">
+        <div class="desenho">
+            <img src="undraw_my_password_re_ydq7.svg" alt="Mulher se apoiando em caixa" id="desenhoid">
+        </div>
+        <div class="login">
+            <div>
+                <p class="titulo">Login</p>
+            </div>
+
+        <form method="POST" class="formulario">
+            <input type="email" name="Nome" autocomplete="off" placeholder="E-mail" id="email" autofocus required>
+            <input type="password" name="senha" placeholder="Senha" id="senha" required>
+            <input type="submit" class="enviar" onclick="logar(); return false">
+        </form>
+        <p>Não tem login?<a class="cad" href="/cadastro/Cadastro.html">Cadastre-se</a></p>
+    </section>
+    
+
+
+
+
+
+
+
+    <footer>
+    </footer>
+</body>
+</html>
