@@ -59,33 +59,14 @@ Informações sobre coleta seletiva devem ser exibidas.
 | Critérios de Êxito        | O quiz e os vídeos devem ser apresentados.                                                                                            | 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Caso de teste        | CT01 - Navegação via menu principal                                           |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------                       |
+| Requisitos Associados        | RF-01  O site deve ter um menu onde o usuário escolha o tipo de informação que deseja( Rede de coleta, Afinal, o que é coleta seletiva, Diversão e interatividade, Ecossistema, FAQ). |  |  .                                                                                                                                                              | |
+| Objetivo do Teste        | Verificar se o menu é navegável e dá acesso às demais páginas.       |                                  |
+| Passos        |1) Acessar o Navegador                                                                                                                               |
+|               |2) informar o endereço do Site                                                                                                              |
+|               |3) Visualizar a página principal.                                                                                                                                                                 |     
+| Critérios de Êxito        | O menu deve permitir acesso às demais páginas, realizar pesquisar e retornar ao início.|
 
 
 
