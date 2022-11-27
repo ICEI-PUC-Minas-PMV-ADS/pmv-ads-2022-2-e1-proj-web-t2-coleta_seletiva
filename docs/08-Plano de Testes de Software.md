@@ -49,9 +49,9 @@ Os requisitos para realização dos testes de software são:
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | Requisitos Associados | RF-07- O site deve oferecer uma agenda com dias e horáriosde coleta seletiva em cada bairro.                                                |
 | Objetivo do Teste     | Verificar se existem funcionalidades da caixa Dias e Horários.                                                                              |
-| Passos                | 1) Acessar o Menu                                                                                                                           |
-|                       |2) Acessar Rede de coleta                                                                                                                    |
-|                       |3) Clicar em Dias e Horários                                                                                                                 | 
+| Passos                | 1) Acessar o Menu;                                                                                                                          |
+|                       |2) Acessar Rede de coleta;                                                                                                                   |
+|                       |3) Clicar em Dias e Horários.                                                                                                                | 
 | Critérios de êxito    |  Bairros devem ser exibidos; dias e horários devem ser exibidos.                                                                            |
 
 </br>
@@ -73,8 +73,8 @@ Os requisitos para realização dos testes de software são:
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------                     |
 | Requisitos Associados        | RF12 - O site deve apresentar uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o   |  lixo.                                                                                                                                                              | 
 | Objetivo do Teste        | Verificar se as informações de todos os Cards de informações estão navegáveis.                                                           | 
-| Passos        |1) Acessar menu                                                                                                                                      |
-|               |2) Clicar em O que é coleta seletiva?                                                                                                                |
+| Passos        |1) Acessar menu;                                                                                                                                     |
+|               |2) Clicar em O que é coleta seletiva?;                                                                                                               |
 |               |3) Clicar nos 5 Cards(Artigos e notícias, Como separar o lixo, Dicas 3’R, Parcerias Educativas, Campanhas Educativas).                               | 
 | Critérios de Êxito        | Informações sobre coleta seletiva devem ser exibidas.                                                                                   | 
 
@@ -82,13 +82,13 @@ Os requisitos para realização dos testes de software são:
 </br>
 
 | Caso de teste        | CT07 - Ao abrir a página faq aparecem as opções de contato: Fale conosco, whatsapp e chat.                                                   |
-|------------------------------------------------------------------- | ------------------------------------------------------------------                             |
+|------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------|
 | Requisitos Associados        | RF 10 -FAQ- Perguntas frequentes dos usuários sobre navegação e utilização dos serviços.                                             | 
 | Objetivo do Teste        |Verificar se as funcionalidades estão de acordo com o a proposta do projeto.                                                              | 
 | Passos        |1) Acessar menu;                                                                                                                                     |
-|               |2)Clicar em faq.                                                                                                                                     |
-|               |3) Clicar em fale conosco (verificar informações).                                                                                                   |
-|               |4) Clicar em whatsapp (verificar a funcionalidades).                                                                                                 |
+|               |2) Clicar em faq;                                                                                                                                    |
+|               |3) Clicar em fale conosco (verificar informações);                                                                                                   |
+|               |4) Clicar em whatsapp (verificar a funcionalidades);                                                                                                 |
 |               |5) Clicar em chat (verificar informações).                                                                                                           |  | Critérios de Êxito        | Informações sobre coleta seletiva devem ser exibidas.                                                                                   |
 
 </br>
@@ -98,9 +98,9 @@ Os requisitos para realização dos testes de software são:
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------|
 | Requisitos Associados        | RF-09 - Opção de registro de usuários por redes sociais, e-mail ou CPF.                                                              |
 | Objetivo do Teste        | WhatsApp e Facebook.                                                                                                                     |
-| Passos        | 1) Acessar o Navegador                                                                                                                              |
-|               |2) Informar o endereço do Site                                                                                                                       |
-|               |3) Clicar na página de Login pelo menu                                                                                                               |
-|               |4) Se cadastrado: realizar Login                                                                                                                     |
-|               |5) Se não cadastrado : realizar Cadastro                                                                                                             | 
+| Passos        | 1) Acessar o Navegador;                                                                                                                             |
+|               |2) Informar o endereço do Site;                                                                                                                      |
+|               |3) Clicar na página de Login pelo menu;                                                                                                              |
+|               |4) Se cadastrado: realizar Login;                                                                                                                    |
+|               |5) Se não cadastrado : realizar Cadastro.                                                                                                            | 
 | Critérios de Êxito        | Falta de conhecimento básico sobre a coleta seletiva; pouca divulgação dos horários e locais de coleta; catadores despreparados e trabalhando em condições insalubres.                                                                                                                                  | 
