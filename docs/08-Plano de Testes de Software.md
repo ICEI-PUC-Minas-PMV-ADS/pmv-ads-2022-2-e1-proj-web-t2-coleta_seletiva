@@ -98,13 +98,11 @@ Bairros devem ser exibidos. |
 
 
 
-| Caso de teste | CT04 - Visualização dos Cards com dias e horários de coleta. |
-| -------------------------------------------------- ----------------------- | -------------------------------------------------- ------------------------------------|
-| Requisitos Associados | RF07- O site deve oferecer uma agenda com dias e horários
- de coleta seletiva em cada bairro.|
-
-| Objetivo do Teste | Verificar se existem funcionalidades da caixa Dias e Horários. |
-| Passos | 1) Acessar o Menu |
-| |2) Acessar Rede de coleta |
-| |3) Clicar em Dias e Horários |       
-| |  Critérios de Êxito | Dias e Horários devem ser exibidos. |
+| Caso de teste | CT04 - Visualização dos Cards com dias e horários de coleta.                                            |
+| -------------------------------------------------- ----------------------- | -------------------------------------------|
+| Requisitos Associados | RF07- O site deve oferecer uma agenda com dias e horáriosde coleta seletiva em cada bairro.     |
+| Objetivo do Teste | Verificar se existem funcionalidades da caixa Dias e Horários.                                      |
+| Passos | 1) Acessar o Menu                                                                                              |
+| |2) Acessar Rede de coleta                                                                                              |
+| |3) Clicar em Dias e Horários                                                                                           |       
+| |  Critérios de Êxito | Dias e Horários devem ser exibidos.                                                             |
