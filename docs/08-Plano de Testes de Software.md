@@ -17,3 +17,51 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
+
+
+
+
+
+
+
+
+
+
+
+|Caso de Teste|CT06 - Visualizar informações sobre Artigos, Como separar o lixo, dicas 3’R, campanhas e parcerias|
+|Requisitos Associados| RF12 - O site deve apresentar uma página com notícias, campanhas educativas, parcerias educativas e informações sobre como separar o lixo.|
+|Objetivo do Teste | Verificar se as informações de todos os Cards de informações estão navegáveis.|
+|Passos| 1) Acessar menu 
+2) Clicar em O que é coleta seletiva?
+3) Clicar nos 5 Cards(Artigos e notícias, Como separar o lixo, Dicas 3’R, Parcerias Educativas, Campanhas Educativas).|                                        |
+| Critérios de Êxito |Informações sobre coleta seletiva devem ser exibidas.                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
