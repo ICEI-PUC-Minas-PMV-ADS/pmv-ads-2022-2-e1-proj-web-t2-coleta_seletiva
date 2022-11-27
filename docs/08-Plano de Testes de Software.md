@@ -99,10 +99,12 @@ Os requisitos para realização dos testes de software são:
 | Caso de teste        | CT-8 - Realizar Login / Criar uma nova conta                                                                                                 |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------|
 | Requisitos Associados        | RF-09 - Opção de registro de usuários por redes sociais, e-mail ou CPF.                                                              |
-| Objetivo do Teste        | WhatsApp e Facebook.                                                                                                                     |
-| Passos        | 1) Acessar o Navegador;                                                                                                                             |
+| Objetivo do Teste        | Verificar se o site permite a criação de seções privadas, além de permitir a entrada de novos usuários.                                  |
+| Passos        |1) Acessar o Navegador;                                                                                                                              |
 |               |2) Informar o endereço do Site;                                                                                                                      |
 |               |3) Clicar na página de Login pelo menu;                                                                                                              |
 |               |4) Se cadastrado: realizar Login;                                                                                                                    |
 |               |5) Se não cadastrado : realizar Cadastro.                                                                                                            | 
-| Critérios de Êxito        | Falta de conhecimento básico sobre a coleta seletiva; pouca divulgação dos horários e locais de coleta; catadores despreparados e trabalhando em condições insalubres.                                                                                                                                  | 
+| Critérios de Êxito         |  Os formulários devem ser adequados para impedir o envio de inscrições SPAM e o mal preenchimento das informações.                     |
+|                            |  Os blocos de input devem estar disponíveis de fácil acesso para permitir a integração ou a inicialização de sessão.                   |
+|                            |  As páginas Login e Cadastro devem estar linkadas.                                                                                     |
