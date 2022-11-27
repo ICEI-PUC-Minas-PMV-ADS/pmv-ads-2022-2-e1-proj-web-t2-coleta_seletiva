@@ -82,7 +82,7 @@ Informações sobre coleta seletiva devem ser exibidas.
 
 | Caso de teste | CT03-Filtro de Endereço contendo Cidades,Bairros e Horários |
 |-------------------------------------------------------------------------|------------------------------------------------------------------|
-| Requisitos Associados                                                   | RF-05                                                            |
+| Requisitos Associados  |      RF-05                                   |                                                          
 |Conter um filtro onde ao inserir seu endereço o usuário consiga  encontrar locais, datas e horários de coleta seletiva                       |
 | Objetivo do Teste                    | Verificar se as informações de cidades,bairros e horários estão corretas.                           |
 | Passos                               | 1) Acessar o Menu                                                  |
