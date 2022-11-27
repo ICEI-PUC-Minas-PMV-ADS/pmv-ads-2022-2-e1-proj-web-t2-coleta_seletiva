@@ -69,6 +69,14 @@ Informações sobre coleta seletiva devem ser exibidas.
 | Critérios de Êxito        | O menu deve permitir acesso às demais páginas, realizar pesquisar e retornar ao início.|
 
 
+| Caso de teste        | CT02 -Visualização do carrossel                                          |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------                       |
+| Requisitos Associados        | RF-02 Apresentar na tela inicial infográficos informativos sobre coleta seletiva. |  |  .                                                                                                                                                              | |
+| Objetivo do Teste        | Verificar se o carrossel(infográfico) de informações está funcionando pela barra de rolagem inferior.        |                                  |
+| Passos        |1) Acessar o Navegador/  informar o endereço do Site      |
+|               |2) Visualizar página inicial                             |
+|               |3) Fazer rolagem na barra inferior do carrosel.                            |     
+| Critérios de Êxito        | Carregar completamente as imagens do carrosel, aparecer barra de rolagem|
 
 
 
