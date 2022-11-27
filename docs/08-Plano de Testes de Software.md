@@ -82,14 +82,13 @@ Informações sobre coleta seletiva devem ser exibidas.
 
 | Caso de teste | CT03-Filtro de Endereço contendo Cidades,Bairros e Horários |
 |-------------------------------------------------------------------------|------------------------------------------------------------------|
-| Requisitos Associados  |      RF-05 |Conter um filtro onde ao inserir seu endereço o usuário consiga  encontrar locais, datas e horários de coleta seletiva    |                                                                                                             
-
-| Objetivo do Teste                    | Verificar se as informações de cidades,bairros e horários estão corretas.                           |
+| Requisitos Associados | RF-05 Conter um filtro onde ao inserir seu endereço o usuário consiga  encontrar locais, datas e horários de coleta seletiva  | 
+| Objetivo do Teste                | Verificar se as informações de cidades,bairros e horários estão corretas.                           |
 | Passos                               | 1) Acessar o Menu                                                  |
 |                                      |2) Clicar em Rede de Coleta                                         |
 |                                      |3) Clicar em cidades para visualizar quais estão disponíveis       |
-| Critérios de Êxito                   | Cidades devem ser exibidas                                              |
-| Bairros devem ser exibidos.          |                                                                         |
+| Critérios de Êxito                   | Cidades devem ser exibidas  | Bairros devem ser exibidos.                                             |
+                                           
  
 
 
@@ -102,4 +101,4 @@ Informações sobre coleta seletiva devem ser exibidas.
 | Passos                | 1) Acessar o Menu                                                                                              |
 |                       |2) Acessar Rede de coleta                                                                                              |
 |                       |3) Clicar em Dias e Horários                                                                                           |       
-|                       |  Critérios de Êxito | Dias e Horários devem ser exibidos.                                                             |
+| Critérios de êxito    |  Bairros devem ser exibidos.  Dias e Horários devem ser exibidos.                                                             |
