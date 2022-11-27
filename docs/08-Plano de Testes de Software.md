@@ -23,8 +23,8 @@ Os requisitos para realização dos testes de software são:
 
 | Caso de teste        | CT02 - Visualização do carrossel                                                                                                             |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------|
-| Requisitos Associados        | RF-02 Apresentar na tela inicial infográficos informativos sobre coleta seletiva.                                                    |                                                                                                                                                                       |
-| Objetivo do Teste        | Verificar se o carrossel (infográfico) de informações está funcionando pela barra de rolagem inferior.                                   |                                                                                                                                                                       |
+| Requisitos Associados        | RF-02 Apresentar na tela inicial infográficos informativos sobre coleta seletiva.                                                    |
+| Objetivo do Teste        | Verificar se o carrossel (infográfico) de informações está funcionando pela barra de rolagem inferior.                                   |
 | Passos        |1) Acessar o Navegador/  informar o endereço do Site;                                                                                                |
 |               |2) Visualizar página inicial;                                                                                                                        |
 |               |3) Fazer rolagem na barra inferior do carrosel.                                                                                                      | 
@@ -36,10 +36,10 @@ Os requisitos para realização dos testes de software são:
 | Caso de teste | CT03 - Filtro de Endereço contendo Cidades,Bairros e Horários                                                                                       |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | Requisitos Associados | RF-05 Conter um filtro onde ao inserir seu endereço o usuário consiga  encontrar locais, datas e horários de coleta seletiva                | 
-| Objetivo do Teste                | Verificar se as informações de cidades,bairros e horários estão corretas.                                                        |
-| Passos                               |1) Acessar o Menu                                                                                                             |
-|                                      |2) Clicar em Rede de Coleta                                                                                                   |
-|                                      |3) Clicar em cidades para visualizar quais estão disponíveis                                                                  |
+| Objetivo do Teste                | Verificar se as informações de cidades, airros e horários estão corretas.                                                        |
+| Passos                               |1) Acessar o Menu;                                                                                                            |
+|                                      |2) Clicar em Rede de Coleta;                                                                                                  |
+|                                      |3) Clicar em cidades para visualizar quais estão disponíveis.                                                                 |
 | Critérios de Êxito                   | Cidades devem ser exibidas e bairros devem ser exibidos.                                                                     |
    
 </br>
@@ -64,7 +64,8 @@ Os requisitos para realização dos testes de software são:
 | Passos                       | 1) Acessar o Navegador;                                                                                                            |
 |                              |2) Informar o endereço do Site;                                                                                                     |
 |                              |3) Acessar o menu e clicar em “Interatividade”;                                                                                     |
-|                              |4) Clicar nas três caixas e visualizar o conteúdo.                                                                                  |    | Critérios de Êxito           | O quiz e os vídeos devem ser apresentados.                                                                                         | 
+|                              |4) Clicar nas três caixas e visualizar o conteúdo.                                                                                  | 
+| Critérios de êxito    |  O quiz e os vídeos devem ser apresentados.                                                                                               |
 
 </br>
 </br>
@@ -89,7 +90,8 @@ Os requisitos para realização dos testes de software são:
 |               |2) Clicar em faq;                                                                                                                                    |
 |               |3) Clicar em fale conosco (verificar informações);                                                                                                   |
 |               |4) Clicar em whatsapp (verificar a funcionalidades);                                                                                                 |
-|               |5) Clicar em chat (verificar informações).                                                                                                           |  | Critérios de Êxito        | Informações sobre coleta seletiva devem ser exibidas.                                                                                   |
+|               |5) Clicar em chat (verificar informações).                                                                                                           
+| Critérios de Êxito        | Informações sobre coleta seletiva devem ser exibidas.                                                                                   |
 
 </br>
 </br>
