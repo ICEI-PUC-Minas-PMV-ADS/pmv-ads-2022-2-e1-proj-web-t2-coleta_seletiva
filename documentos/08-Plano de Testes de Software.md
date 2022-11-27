@@ -8,6 +8,24 @@
 |                                                                                                                                                                     |     
 | Critérios de Êxito        | Informações sobre coleta seletiva devem ser exibidas.                                                                                   | 
  
+Caso de Teste
+CT07 - Ao abrir a página faq aparecem as opções de contato: Fale conosco, whatsapp e chat.
+Requisitos Associados
+RF 10 -FAQ- Perguntas frequentes dos usuários sobre navegação e utilização dos serviços.
+Objetivo do Teste
+Verificar se as funcionalidades estão de acordo com o a proposta do projeto.
+Passos
+1) Acessar menu 
+2) Clicar em faq.
+3) Clicar em fale conosco (verificar informações)
+clicar novamente no faq.
+4) Clicar em whatsapp (verificar a funcionalidades)
+clicar novamente no faq.
+5) Clicar em chat (verificar informações)
+clicar novamente no faq.
+Critérios de Êxito
+Informações sobre coleta seletiva devem ser exibidas.
+
 
 
 
