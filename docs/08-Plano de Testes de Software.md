@@ -47,6 +47,16 @@ Informações sobre coleta seletiva devem ser exibidas.
 
 
 
+| Caso de teste        | CT05 - Acesso aos vídeos informativos e jogos. |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------|
+| Requisitos Associados        | RF08 - O site deve apresentar uma página que contém vídeos informativos e um quiz.                             |
+| Objetivo do Teste        | Verificar se é possível assistir os vídeos e realizar o quiz.                                                      |
+| Passos        | 1) Acessar o Navegador;                                                                                                       |
+|               |2) Informar o endereço do Site;                                                                                                |
+|               |3) Acessar o menu e clicar em “Interatividade”;                                                                                |
+|               |4) Clicar nas três caixas e visualizar o conteúdo.                                                                             |
+|                                                                                                                                               |       
+| Critérios de Êxito        | O quiz e os vídeos devem ser apresentados.                                                                        | 
 
 
 
