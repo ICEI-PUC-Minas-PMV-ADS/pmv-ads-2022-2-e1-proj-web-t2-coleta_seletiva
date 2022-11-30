@@ -151,7 +151,7 @@ Apresenta uma tela interativa onde há alguns vídeos do youtube inseridos e tr�
   
 #### Artefatos da funcionalidade:
   
-<li>interatividade_e_diversão.hmtl</li>
+<li>interatividade_e_diversão.html</li>
 <li>style.css</li>
 <li>coletascript.js</li>
 <li>coleta.seletiva.png</li>
