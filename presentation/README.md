@@ -1,7 +1,7 @@
 # Apresentação da Solução
 
-<a href="../docs/10-Apresentação do Projeto.md"> Orientações sobre os artefatos de apresentação do projeto</a>
+<a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva/"> SITE FUNCIONAL NO GITHUB PAGES</a>
 
-Faça uma apresentação resumida de todo o projeto, desde a contextualização até a solução final desenvolvida, usando um pequeno vídeo.
+<a href="https://www.canva.com/design/DAFTni3eAvs/WPEVZUrSUtvQu1ah95OtXA/view?utm_content=DAFTni3eAvs&utm_campaign=designshare&utm_medium=link&utm_source=viewer"> APRESENTAÇÃO EM SLIDES
 
-Faça o upload do arquivo de vídeo e dos slides usados na apresentação no formato PDF (caso tenha feito uso de slides).
+O vídeo se encontra na pagina presentation
