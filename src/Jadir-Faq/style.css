@@ -73,7 +73,6 @@ a {
 .menu:hover {
     background-color: #E2E6CE;
     transition: 0.3s ease;
-    opacity: 0.8;
 }
  
 .container{
