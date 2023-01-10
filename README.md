@@ -22,9 +22,6 @@ Um website em desenvolvimento, capaz de auxiliar empresas e usuários comuns sob
 
 * Joyce Christina de Paiva Carvalho
 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
 
