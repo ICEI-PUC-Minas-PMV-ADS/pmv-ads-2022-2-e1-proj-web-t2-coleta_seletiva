@@ -1,0 +1,26 @@
+message: Please cite this software using these metadata.
+title: COLETA SELETIVA - RECICLE-SE
+authors:
+  - family-names: de Sousa Gonçalves
+    given-names: Jadir
+  - family-names: Costa Junior
+    given-names: Joanes
+  - family-names: Silva Coutinho
+    given-names: Luisa
+  - family-names: Leite Lima Santos
+    given-names: Michelle
+  - family-names: Fonseca Pereira
+    given-names: Ricardo
+  - family-names: Henrique de Oliveira Souza
+    given-names: Thiago
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Christina de Paiva Carvalho
+    given-names: Joyce
+keywords:
+  - COLETA
+  - SELETIVA
+  - RECICLE-SE
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t2-coleta_seletiva
+version: 1.0.0
+date-released: 2023-10-31
